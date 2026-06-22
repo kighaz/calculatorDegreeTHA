@@ -7,6 +7,7 @@ public class Main {
 
 		System.out.println("Test gitHub");
 		System.out.println("Test gitHub 4");
+		System.out.println("test done");
 	}
 
 }
